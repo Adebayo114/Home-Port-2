@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.headings{
+    padding-top: 2rem;
+    margin-top:-1.3rem;
+    text-align: center;
+    background-color:rgb(16, 31, 31);
+    padding-bottom:8rem;
+}
+
+.headings-kid{
+    margin-top: 1rem;
+}
+
+h2{
+    font-size: 2rem;
+}
